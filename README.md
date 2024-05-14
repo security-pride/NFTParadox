@@ -10,7 +10,7 @@ There are 629 arbitrage bots in arbitrage.csv in total. And the dataset includes
 
 ## Citation
 
-If you use our dataset in your research, please cite our paper: 
+If you use our dataset in your research, we would be very glad :) if you please cite our paper: 
 
 ```
 @inproceedings{huang2024unveiling,
