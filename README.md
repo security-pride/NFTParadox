@@ -12,7 +12,7 @@ There are 629 arbitrage bots in arbitrage.csv in total. And the dataset includes
 
 If you use our dataset in your research, please cite our paper: 
 
-'''
+```
 @inproceedings{huang2024unveiling,
   title={Unveiling the Paradox of NFT Prosperity},
   author={Huang, Jintao and Xia, Pengcheng and Li, Jiefeng and Ma, Kai and Tyson, Gareth and Luo, Xiapu and Wu, Lei and Zhou, Yajin and Cai, Wei and Wang, Haoyu},
@@ -20,5 +20,5 @@ If you use our dataset in your research, please cite our paper:
   pages={167--177},
   year={2024}
 }
-'''
+```
 
